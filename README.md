@@ -1,12 +1,12 @@
 # Hey, I'm Angel Giampierre
 
-Senior Software Engineer at [YaVendio](https://yavendio.com), where I build conversational AI agents that let small businesses across Latin America sell through WhatsApp. Mechatronics Engineer from [UTEC](https://utec.edu.pe) with a specialization in robotics and an honors thesis in microrobotics and six years volunteering at Yachay Wasi, closing education gaps in underserved communities across Peru.
+Senior Software Engineer at [YaVendio](https://yavendio.com), where I build conversational AI agents that let small businesses across Latin America sell through WhatsApp. Mechatronics Engineer from [UTEC](https://utec.edu.pe), specialized in robotics with an honors thesis in microrobotics. Six years volunteering at Yachay Wasi, closing education gaps across Peru.
 
 I like connecting the model with the latency, the end user, and the production system.
 
 ## What I'm building
 
-**At YaVendio** -- I lead the evolution of **Yago**, a production LLM-based agent serving 400+ merchants across LatAm. My work spans the full stack: from LangGraph agent architecture and hallucination detection middleware, to frontend features in the merchant dashboard, database migrations, and infrastructure moves from GCP to AWS. 1,400+ commits across 11 repositories.
+**At YaVendio** -- I lead the evolution of **Yago**, a production LLM-based agent serving 400+ merchants across LatAm. My work spans the full stack: from LangGraph agent architecture and hallucination detection middleware, to frontend features in the merchant dashboard, database migrations, and infrastructure moves from GCP to AWS.
 
 **In the lab** -- I research AI-driven control of millimeter-scale magnetic microrobots at UTEC. My IEEE URUCON 2024 paper covers locomotion of rolling microrobots (sphere, cube, cylinder) under proportional closed-loop control in channels simulating human arteries. Currently building **uRobotTracker**, a web platform for annotating microscopy videos and training YOLO11 detectors, and **uRobotLive**, a real-time detection system bridged to LabVIEW for closed-loop Helmholtz coil control.
 
@@ -20,10 +20,6 @@ I like connecting the model with the latency, the end user, and the production s
 | **uRobotTracker** | Web platform for microrobot detection and model training | Next.js, FastAPI, YOLO11n, Docker |
 | **uRobotLive** | Real-time microrobot tracking with hardware bridge | Python, OpenCV, BoT-SORT, LabVIEW |
 | [**Match-Yaku-Ruru**](https://github.com/AngelGiampierre/Match-Yaku-Ruru) | Mentor-student matching algorithm for Yachay Wasi | Python |
-| [**wasi-slack-ai**](https://github.com/AngelGiampierre/wasi-slack-ai) | AI assistant for nonprofit ops, integrated via MCP | Python, MCP, Slack |
-| [**daily-budget**](https://github.com/AngelGiampierre/daily-budget) | Personal expense PWA with dynamic daily budgets | TypeScript, Next.js, Supabase |
-| [**rolling_microrobot_tracking**](https://github.com/AngelGiampierre/rolling_microrobot_tracking) | Microrobot position tracking with computer vision | Python, OpenCV |
-| [**DocCompare**](https://github.com/AngelGiampierre/DocCompare) | Document diff engine using OCR for scanned files | Python, OCR |
 
 ## Tech I work with
 
