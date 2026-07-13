@@ -1,6 +1,6 @@
 # Hey, I'm Angel Giampierre
 
-Senior Software Engineer at [YaVendio](https://yavendio.com), where I build conversational AI agents that let small businesses across Latin America sell through WhatsApp. Mechatronics Engineer from [UTEC](https://utec.edu.pe), specialized in robotics with an honors thesis in microrobotics. Six years volunteering at Yachay Wasi, closing education gaps across Peru.
+Mechatronics Engineer from [UTEC](https://utec.edu.pe), specialized in robotics with an honors thesis in microrobotics. Six years volunteering at Yachay Wasi, closing education gaps across Peru.
 
 I like connecting the model with the latency, the end user, and the production system.
 
